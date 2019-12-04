@@ -1,0 +1,8 @@
+**/target
+.idea/workspace.xml
+*.log
+.idea/misc.xml
+ .idea/vcs.xml
+ allure-results
+ .idea/encodings.xml
+ .idea/compiler.xml
